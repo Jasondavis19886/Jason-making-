@@ -1,0 +1,50 @@
+Now
+2022-11-06T11:29:15.005-05:00
+
+Next alarm clock (on device)
+2022-11-07T07:00:00.000-05:00
+
+Last run for reminders
+Scheduled
+2022-11-06T11:29:12.429-05:00
+Deadline
+2022-11-06T11:29:12.429-05:00
+Event
+2022-11-06T11:29:12.429-05:00
+
+Last boot (including deep sleep)
+2022-11-06T10:34:58.720-05:00
+54 minutes, 16 seconds and 285 milliseconds
+2022-11-06T11:29:10.718-05:00 reminders Intent accepted - scheduled time reminder is enabled: Intent { act=com.orgzly.intent.action.REMINDER_DATA_CHANGED flg=0x10 cmp=com.orgzly/.android.reminders.RemindersBroadcastReceiver }
+2022-11-06T11:29:10.742-05:00 reminders Canceled all reminders
+2022-11-06T11:29:10.793-05:00 reminders Since last run: No notes found between LastRun(scheduled=2022-11-06T11:29:03.330-05:00, deadline=2022-11-06T11:29:03.330-05:00, event=2022-11-06T11:29:03.330-05:00) and 2022-11-06T11:29:10.737-05:00
+2022-11-06T11:29:10.819-05:00 reminders Next: No notes found from 2022-11-06T11:29:10.737-05:00
+2022-11-06T11:29:12.425-05:00 reminders Intent accepted - scheduled time reminder is enabled: Intent { act=com.orgzly.intent.action.REMINDER_DATA_CHANGED flg=0x10 cmp=com.orgzly/.android.reminders.RemindersBroadcastReceiver }
+2022-11-06T11:29:12.433-05:00 reminders Canceled all reminders
+2022-11-06T11:29:12.463-05:00 reminders Since last run: No notes found between LastRun(scheduled=2022-11-06T11:29:10.737-05:00, deadline=2022-11-06T11:29:10.737-05:00, event=2022-11-06T11:29:10.737-05:00) and 2022-11-06T11:29:12.429-05:00
+2022-11-06T11:29:12.480-05:00 reminders Next: No notes found from 2022-11-06T11:29:12.429-05:00
+- [x] now
+2022-11-06t11:29:15.005-05:00
+
+next alarm clock (on device)
+2022-11-07t07:00:00.000-05:00
+
+last run for reminders
+scheduled
+2022-11-06t11:29:12.429-05:00
+deadline
+2022-11-06t11:29:12.429-05:00
+event
+2022-11-06t11:29:12.429-05:00
+
+last boot (including deep sleep)
+2022-11-06t10:34:58.720-05:00
+54 minutes, 16 seconds and 285 milliseconds
+2022-11-06t11:29:10.718-05:00 reminders intent accepted - scheduled time reminder is enabled: intent { act=com.orgzly.intent.action.reminder_data_changed flg=0x10 cmp=com.orgzly/.android.reminders.remindersbroadcastreceiver }
+2022-11-06t11:29:10.742-05:00 reminders canceled all reminders
+2022-11-06t11:29:10.793-05:00 reminders since last run: no notes found between lastrun(scheduled=2022-11-06t11:29:03.330-05:00, deadline=2022-11-06t11:29:03.330-05:00, event=2022-11-06t11:29:03.330-05:00) and 2022-11-06t11:29:10.737-05:00
+2022-11-06t11:29:10.819-05:00 reminders next: no notes found from 2022-11-06t11:29:10.737-05:00
+2022-11-06t11:29:12.425-05:00 reminders intent accepted - scheduled time reminder is enabled: intent { act=com.orgzly.intent.action.reminder_data_changed flg=0x10 cmp=com.orgzly/.android.reminders.remindersbroadcastreceiver }
+2022-11-06t11:29:12.433-05:00 reminders canceled all reminders
+2022-11-06t11:29:12.463-05:00 reminders since last run: no notes found between lastrun(scheduled=2022-11-06t11:29:10.737-05:00, deadline=2022-11-06t11:29:10.737-05:00, event=2022-11-06t11:29:10.737-05:00) and 2022-11-06t11:29:12.429-05:00
+2022-11-06t11:29:12.480-05:00 reminders next: no notes found from 2022-11-06t11:29:12.429-05:00
